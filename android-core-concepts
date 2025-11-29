@@ -1,0 +1,63 @@
+1. Compose Core Concepts:
+- Understanding of Composable functions and their lifecycle
+- State management in Compose (remember, mutableStateOf, rememberSaveable)
+- Recomposition and side effects (LaunchedEffect, DisposableEffect)
+- Performance optimization in Compose
+
+2. Architecture with Compose:
+- How to structure a Compose-based application
+- Integration with ViewModels and state handling
+- Unidirectional data flow implementation
+- Navigation in Compose applications
+
+3. Advanced Compose Topics:
+- Custom layouts and modifiers
+- Composition local and providing dependencies
+- Theming and styling in Compose
+- Animation implementations
+- State hoisting patterns
+
+4. Testing:
+- Unit testing Composable functions
+- UI testing with Compose
+- Integration testing strategies
+- Testing state management
+
+5. Migration and Interoperability:
+- Strategies for migrating from XML-based Views to Compose
+- Handling legacy code alongside Compose
+- Integration between Compose and traditional View system
+
+6. Performance:
+- Compose rendering optimization
+- Memory management
+- Preventing unnecessary recompositions
+- Smart recomposition strategies
+
+7. Real-world Scenarios:
+- Handling complex UI states
+- Implementation of design systems
+- Error handling and edge cases
+- Accessibility implementation
+- Handling configuration changes
+
+8. System Design:
+- Designing scalable Compose-based features
+- Component reusability
+- State management for large applications
+- Architecture patterns (MVI/MVVM with Compose)
+
+Specific Technical Challenges Might Include:
+1. Building a custom UI component with specific requirements
+2. Implementing a complex animation
+3. Solving state management problems
+4. Creating responsive layouts that handle different screen sizes
+5. Implementing efficient lists with LazyColumn/LazyRow
+6. Handling complex user interactions
+
+Remember to:
+- Focus on performance implications of your solutions
+- Consider edge cases and error states
+- Think about scalability and maintainability
+- Be prepared to explain your architectural decisions
+- Demonstrate knowledge of Compose best practices
