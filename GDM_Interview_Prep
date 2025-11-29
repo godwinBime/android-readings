@@ -1,0 +1,29 @@
+You should be ready to discuss:
+=========================
+
+● State Management: Modern design patterns for managing application data and UI
+states, and platform-specific frameworks.
+
+● Performance: Strategies for building fast and responsive user experiences, through
+various optimization techniques and a solid understanding of view lifecycle and
+rendering pipelines.
+
+● Concurrency: Management of background work using modern, platform-specific
+concurrency frameworks like Kotlin Coroutines or Swift Concurrency.
+
+● Memory: Platform-specific memory models (e.g., Garbage Collection in Kotlin vs. ARC
+in Swift) and strategies for identifying and resolving memory leaks.
+
+
+How to prepare:
+● Solidify CS Fundamentals: Be proficient in common Data Structures and Algorithms
+and be prepared to analyze their complexity.
+
+● Focus on Application Architecture: Prepare to architect a complex, user-facing
+application. This involves discussing your high-level approach to managing application
+state, designing the client-server communication layer, and ensuring a performant user
+experience.
+
+● Practice Trade-off Analysis: For any design decision you propose, the most critical skill
+is your ability to articulate the "why" by clearly explaining the trade-offs of your chosen
+approach versus the other
