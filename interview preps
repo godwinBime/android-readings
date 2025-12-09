@@ -31,5 +31,9 @@
 
 - Experience and advanced understanding of Dagger/hilt dependency in android and mobile application development.
 
+- Experience with the types of dependency injection lifecycle components such as SingletonComponent, ActivityRetainedComponent, ViewmodelComponent,
+  ActivityComponent, ViewComponent, ServiceComponent, FragmentComponent.
+
+
 
 
