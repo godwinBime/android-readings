@@ -34,6 +34,7 @@
 - Experience with the types of dependency injection lifecycle components such as SingletonComponent, ActivityRetainedComponent, ViewmodelComponent,
   ActivityComponent, ViewComponent, ServiceComponent, FragmentComponent.
 
+-  experience with cloud-based microservices architecture, including Istio Service Mesh, zero-trust, and observability
 
 
 
